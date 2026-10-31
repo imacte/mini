@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "upstream": "Orz-3/mini",
+  "branch": "master",
+  "upstream_commit": "0e2bab71d8dbe512db9b5e7a9000a5661dd0e327",
+  "mode": "merge-upstream",
+  "checked_at": "2026-10-31T11:22:56.824Z"
+}
